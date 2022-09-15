@@ -32,8 +32,8 @@ for file in sorted(file_list):
     csv_16 = csv_file[csv_file['REPORT_TYPE']=='FM-16']
     csv_file = pd.concat([csv_15, csv_16], axis=0, ignore_index=True)
     stations = csv_file.CALL_SIGN.unique()
-    print('stations:',stations)
-    print('rows added:',csv_file.shape)
+    print('stations:', stations)
+    print('rows added:', csv_file.shape)
     print('###########################################################')
     csv_list.append(csv_file)
     print(file)
@@ -45,6 +45,7 @@ csv_merged = pd.concat(csv_list, ignore_index=True)
 # pd.info(csv_merged)
 print(csv_merged.info())
 
+'''
 print('expanding visibility data...')
 csv_merged = pd.concat([csv_merged, csv_merged.VIS.str.split(',', expand=True)], axis=1)
 csv_merged = csv_merged.rename(columns={0: 'VIS_METERS', 1: 'VIS_Q', 2: 'VIS_V', 3: 'VIS_QV'})
@@ -79,6 +80,7 @@ csv_merged.DEW_DEG_C = pd.to_numeric(csv_merged.DEW_DEG_C)
 # print(csv_merged.shape)
 # print(csv_merged.CALL_SIGN.unique())
 print('data complete... saving file...')
+'''
 
 # Single DF is saved to the path in CSV format, without index column
 csv_merged.to_csv('data/merged-'+year+'.csv', index=False)
