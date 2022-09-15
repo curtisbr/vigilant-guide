@@ -33,7 +33,7 @@ data = data[(data.CALL_SIGN != 99999) & (data.CALL_SIGN != '99999')].reset_index
 
 print('data complete... saving file...')
 # Single DF is saved to the path in CSV format, without index column
-data.to_csv('station-list.csv', index=False)
+data.to_csv('station-list-edited.csv', index=False)
 print('file saved')
 
 '''
@@ -45,7 +45,7 @@ print(station_list)
 with open("unique-stations.csv", "r") as source:
     reader = csv.reader(source)
 
-    with open("station-list.csv", "w") as result:
+    with open("station-list-edited.csv", "w") as result:
         writer = csv.writer(result)
         for r in reader:
             # Use CSV Index to remove a column from CSV

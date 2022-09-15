@@ -37,7 +37,7 @@ print(united_merge)
 united_merge.to_csv('data/united/united_merge.csv')
 print('file saved to /data/united/united_merge.csv')
 
-data = pd.merge_asof(left=united_merge, right=metar2018, left_on='DESTOBSERVATIONTIME', right_on='DATE', direction='nearest', by='STATION')
+data = pd.merge_asof(left=united_merge, right=metar2018, left_on='STATIONDATETIME', right_on='STATIONDATETIME', direction='nearest')
 print('match data...')
 print(data)
 
