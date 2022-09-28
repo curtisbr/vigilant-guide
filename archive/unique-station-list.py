@@ -4,7 +4,7 @@ import os
 import csv
 
 # define path to data
-path = 'data/2021/'
+path = '../data/2021/'
 
 # creates list of .csv files in path and print list for user confirmation
 file_list = [path + f for f in os.listdir(path) if f.endswith('.csv')]
