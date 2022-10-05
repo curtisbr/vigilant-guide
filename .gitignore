@@ -129,7 +129,16 @@ dmypy.json
 .pyre/
 
 # Large Data Files
-data/
+data/2018/
+data/2019/
+data/2021/
+data/flights/
+data/merged-2021.csv
+data/metar-2018.csv
+data/metar-2019.csv
+data/station-list-edited.csv
+data/united/prelim
+data/united/united-metar-data.csv
 .DS_Store
 
 #pycharm
