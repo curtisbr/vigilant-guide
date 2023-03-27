@@ -129,6 +129,7 @@ dmypy.json
 .pyre/
 
 # Large Data Files
+<<<<<<< Updated upstream
 data/2018/
 data/2019/
 data/2021/
@@ -139,6 +140,11 @@ data/metar-2019.csv
 data/station-list-edited.csv
 data/united/prelim
 data/united/united-metar-data.csv
+=======
+KDEN Weather Analysis/outputs
+KDEN Weather Analysis/data
+raw-data/
+>>>>>>> Stashed changes
 .DS_Store
 
 #pycharm
