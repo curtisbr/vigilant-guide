@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+    <name>FlightAware ✈ UAL1781 16-Feb-2019 (KSMF-KDEN)</name>
+    <Placemark>
+        <name>KSMF Airport</name>
+        <description><![CDATA[Sacramento Intl <br> Sacramento, CA<br><br><a href='http://flightaware.com/live/airport/KSMF'>KSMF airport activity (live)</a><br><a href='http://flightaware.com/resources/airport/KSMF'>KSMF airport information</a>]]></description>
+        <Point>
+            <coordinates>-121.5907778,38.6954444,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>KDEN Airport</name>
+        <description><![CDATA[Denver Intl <br> Denver, CO<br><br><a href='http://flightaware.com/live/airport/KDEN'>KDEN airport activity (live)</a><br><a href='http://flightaware.com/resources/airport/KDEN'>KDEN airport information</a>]]></description>
+        <Point>
+            <coordinates>-104.6731667,39.8616667,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>UAL1781</name>
+        <description>KSMF - KDEN</description>
+        <gx:Track>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <when>2019-02-16T21:06:07Z</when>
+            <when>2019-02-16T21:06:37Z</when>
+            <when>2019-02-16T21:07:07Z</when>
+            <when>2019-02-16T21:07:37Z</when>
+            <when>2019-02-16T21:08:07Z</when>
+            <when>2019-02-16T21:08:37Z</when>
+            <when>2019-02-16T21:09:07Z</when>
+            <when>2019-02-16T21:09:37Z</when>
+            <when>2019-02-16T21:10:07Z</when>
+            <gx:coord>-120.22485 38.63789 7673</gx:coord>
+            <gx:coord>-120.13965 38.63580 7932</gx:coord>
+            <gx:coord>-120.05435 38.63365 8153</gx:coord>
+            <gx:coord>-119.96930 38.63147 8374</gx:coord>
+            <gx:coord>-119.88317 38.62917 8649</gx:coord>
+            <gx:coord>-119.79773 38.62677 8946</gx:coord>
+            <gx:coord>-119.71032 38.62436 9144</gx:coord>
+            <gx:coord>-119.62341 38.62192 9243</gx:coord>
+            <gx:coord>-119.53591 38.61923 9365</gx:coord>
+        </gx:Track>
+    </Placemark>
+    <ScreenOverlay>
+        <name>FlightAware</name>
+        <Icon>
+            <href>https://flightaware.com/images/logo_ge.png</href>
+        </Icon>
+        <overlayXY x="1" y="-1" xunits="fraction" yunits="fraction"/>
+        <screenXY x="1" y="0" xunits="fraction" yunits="fraction"/>
+        <size x="0" y="0" xunits="fraction" yunits="fraction"/>
+    </ScreenOverlay>
+</Document>
+
+</kml>

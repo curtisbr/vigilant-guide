@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+    <name>FlightAware ✈ UAL1708 23-Feb-2018 (KEGE-KDEN)</name>
+    <Placemark>
+        <name>KEGE Airport</name>
+        <description><![CDATA[Eagle County <br> Eagle, CO<br><br><a href='http://flightaware.com/live/airport/KEGE'>KEGE airport activity (live)</a><br><a href='http://flightaware.com/resources/airport/KEGE'>KEGE airport information</a>]]></description>
+        <Point>
+            <coordinates>-106.9159444,39.64275,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>KDEN Airport</name>
+        <description><![CDATA[Denver Intl <br> Denver, CO<br><br><a href='http://flightaware.com/live/airport/KDEN'>KDEN airport activity (live)</a><br><a href='http://flightaware.com/resources/airport/KDEN'>KDEN airport information</a>]]></description>
+        <Point>
+            <coordinates>-104.6731667,39.8616667,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>UAL1708</name>
+        <description>KEGE - KDEN</description>
+        <gx:Track>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <when>2018-02-23T16:56:32Z</when>
+            <when>2018-02-23T16:57:28Z</when>
+            <when>2018-02-23T16:58:30Z</when>
+            <when>2018-02-23T16:59:36Z</when>
+            <when>2018-02-23T17:00:38Z</when>
+            <when>2018-02-23T17:01:13Z</when>
+            <when>2018-02-23T17:01:31Z</when>
+            <gx:coord>-106.54761 40.06205 7010</gx:coord>
+            <gx:coord>-106.42963 40.14252 7010</gx:coord>
+            <gx:coord>-106.29609 40.23680 7010</gx:coord>
+            <gx:coord>-106.15768 40.33150 7010</gx:coord>
+            <gx:coord>-106.02602 40.42108 7010</gx:coord>
+            <gx:coord>-105.93992 40.44865 7010</gx:coord>
+            <gx:coord>-105.89292 40.44568 7010</gx:coord>
+        </gx:Track>
+    </Placemark>
+    <ScreenOverlay>
+        <name>FlightAware</name>
+        <Icon>
+            <href>https://flightaware.com/images/logo_ge.png</href>
+        </Icon>
+        <overlayXY x="1" y="-1" xunits="fraction" yunits="fraction"/>
+        <screenXY x="1" y="0" xunits="fraction" yunits="fraction"/>
+        <size x="0" y="0" xunits="fraction" yunits="fraction"/>
+    </ScreenOverlay>
+</Document>
+
+</kml>

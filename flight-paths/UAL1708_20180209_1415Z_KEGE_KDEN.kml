@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+    <name>FlightAware ✈ UAL1708 09-Feb-2018 (KEGE-KDEN)</name>
+    <Placemark>
+        <name>KEGE Airport</name>
+        <description><![CDATA[Eagle County <br> Eagle, CO<br><br><a href='http://flightaware.com/live/airport/KEGE'>KEGE airport activity (live)</a><br><a href='http://flightaware.com/resources/airport/KEGE'>KEGE airport information</a>]]></description>
+        <Point>
+            <coordinates>-106.9159444,39.64275,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>KDEN Airport</name>
+        <description><![CDATA[Denver Intl <br> Denver, CO<br><br><a href='http://flightaware.com/live/airport/KDEN'>KDEN airport activity (live)</a><br><a href='http://flightaware.com/resources/airport/KDEN'>KDEN airport information</a>]]></description>
+        <Point>
+            <coordinates>-104.6731667,39.8616667,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>UAL1708</name>
+        <description>KEGE - KDEN</description>
+        <gx:Track>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <when>2018-02-09T14:32:15Z</when>
+            <when>2018-02-09T14:33:16Z</when>
+            <when>2018-02-09T14:34:17Z</when>
+            <when>2018-02-09T14:35:17Z</when>
+            <when>2018-02-09T14:36:18Z</when>
+            <when>2018-02-09T14:37:19Z</when>
+            <when>2018-02-09T14:38:21Z</when>
+            <when>2018-02-09T14:38:31Z</when>
+            <when>2018-02-09T14:39:22Z</when>
+            <when>2018-02-09T14:40:35Z</when>
+            <when>2018-02-09T14:41:06Z</when>
+            <when>2018-02-09T14:42:25Z</when>
+            <when>2018-02-09T14:43:26Z</when>
+            <when>2018-02-09T14:44:27Z</when>
+            <when>2018-02-09T14:45:28Z</when>
+            <when>2018-02-09T14:47:31Z</when>
+            <when>2018-02-09T14:48:32Z</when>
+            <when>2018-02-09T14:49:33Z</when>
+            <when>2018-02-09T14:50:34Z</when>
+            <when>2018-02-09T14:51:36Z</when>
+            <when>2018-02-09T14:52:37Z</when>
+            <when>2018-02-09T14:54:44Z</when>
+            <when>2018-02-09T14:55:45Z</when>
+            <when>2018-02-09T14:56:45Z</when>
+            <when>2018-02-09T14:57:45Z</when>
+            <when>2018-02-09T14:58:51Z</when>
+            <when>2018-02-09T14:59:57Z</when>
+            <when>2018-02-09T15:00:57Z</when>
+            <when>2018-02-09T15:01:57Z</when>
+            <gx:coord>-106.95167 39.62833 2682</gx:coord>
+            <gx:coord>-107.00611 39.60305 3536</gx:coord>
+            <gx:coord>-107.01195 39.66056 4389</gx:coord>
+            <gx:coord>-106.97528 39.75056 4999</gx:coord>
+            <gx:coord>-106.86916 39.81556 5639</gx:coord>
+            <gx:coord>-106.74805 39.87667 6370</gx:coord>
+            <gx:coord>-106.62334 39.93917 6797</gx:coord>
+            <gx:coord>-106.57922 39.95383 6949</gx:coord>
+            <gx:coord>-106.50000 39.99833 7010</gx:coord>
+            <gx:coord>-106.31291 40.09243 7010</gx:coord>
+            <gx:coord>-106.24222 40.12674 7010</gx:coord>
+            <gx:coord>-106.07500 40.20694 7010</gx:coord>
+            <gx:coord>-105.94028 40.27333 7010</gx:coord>
+            <gx:coord>-105.80695 40.33833 7010</gx:coord>
+            <gx:coord>-105.66500 40.38889 6736</gx:coord>
+            <gx:coord>-105.36472 40.31333 5944</gx:coord>
+            <gx:coord>-105.24861 40.23778 5456</gx:coord>
+            <gx:coord>-105.14611 40.17278 5121</gx:coord>
+            <gx:coord>-105.04667 40.10833 4755</gx:coord>
+            <gx:coord>-104.94695 40.04417 4420</gx:coord>
+            <gx:coord>-104.84167 39.97583 4054</gx:coord>
+            <gx:coord>-104.80000 39.80000 3383</gx:coord>
+            <gx:coord>-104.81667 39.73333 3261</gx:coord>
+            <gx:coord>-104.81667 39.66667 2804</gx:coord>
+            <gx:coord>-104.75000 39.63334 2713</gx:coord>
+            <gx:coord>-104.66666 39.65000 2438</gx:coord>
+            <gx:coord>-104.66666 39.71667 2377</gx:coord>
+            <gx:coord>-104.66666 39.76667 2073</gx:coord>
+            <gx:coord>-104.66666 39.80000 1798</gx:coord>
+        </gx:Track>
+    </Placemark>
+    <ScreenOverlay>
+        <name>FlightAware</name>
+        <Icon>
+            <href>https://flightaware.com/images/logo_ge.png</href>
+        </Icon>
+        <overlayXY x="1" y="-1" xunits="fraction" yunits="fraction"/>
+        <screenXY x="1" y="0" xunits="fraction" yunits="fraction"/>
+        <size x="0" y="0" xunits="fraction" yunits="fraction"/>
+    </ScreenOverlay>
+</Document>
+
+</kml>

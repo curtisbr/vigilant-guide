@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+    <name>FlightAware ✈ UAL866 06-Feb-2019 (KRDU-KDEN)</name>
+    <Placemark>
+        <name>KRDU Airport</name>
+        <description><![CDATA[Raleigh-Durham Intl <br> Raleigh/Durham, NC<br><br><a href='http://flightaware.com/live/airport/KRDU'>KRDU airport activity (live)</a><br><a href='http://flightaware.com/resources/airport/KRDU'>KRDU airport information</a>]]></description>
+        <Point>
+            <coordinates>-78.7874722,35.8776389,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>KDEN Airport</name>
+        <description><![CDATA[Denver Intl <br> Denver, CO<br><br><a href='http://flightaware.com/live/airport/KDEN'>KDEN airport activity (live)</a><br><a href='http://flightaware.com/resources/airport/KDEN'>KDEN airport information</a>]]></description>
+        <Point>
+            <coordinates>-104.6731667,39.8616667,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>UAL866</name>
+        <description>KRDU - KDEN</description>
+        <gx:Track>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <when>2019-02-06T13:28:09Z</when>
+            <when>2019-02-06T13:28:25Z</when>
+            <when>2019-02-06T13:28:41Z</when>
+            <when>2019-02-06T13:28:57Z</when>
+            <when>2019-02-06T13:29:15Z</when>
+            <when>2019-02-06T13:29:32Z</when>
+            <when>2019-02-06T13:30:28Z</when>
+            <when>2019-02-06T13:30:51Z</when>
+            <when>2019-02-06T13:31:15Z</when>
+            <when>2019-02-06T13:31:38Z</when>
+            <when>2019-02-06T13:31:56Z</when>
+            <when>2019-02-06T13:32:17Z</when>
+            <when>2019-02-06T13:32:47Z</when>
+            <when>2019-02-06T13:33:31Z</when>
+            <when>2019-02-06T13:33:52Z</when>
+            <when>2019-02-06T13:34:22Z</when>
+            <when>2019-02-06T13:34:46Z</when>
+            <when>2019-02-06T13:35:17Z</when>
+            <when>2019-02-06T13:35:38Z</when>
+            <when>2019-02-06T13:36:08Z</when>
+            <when>2019-02-06T13:36:38Z</when>
+            <when>2019-02-06T13:37:08Z</when>
+            <when>2019-02-06T13:37:38Z</when>
+            <when>2019-02-06T13:37:54Z</when>
+            <when>2019-02-06T13:38:35Z</when>
+            <when>2019-02-06T13:39:07Z</when>
+            <when>2019-02-06T13:39:37Z</when>
+            <when>2019-02-06T13:39:58Z</when>
+            <when>2019-02-06T13:40:23Z</when>
+            <when>2019-02-06T13:40:46Z</when>
+            <when>2019-02-06T13:41:08Z</when>
+            <when>2019-02-06T13:41:24Z</when>
+            <when>2019-02-06T13:41:45Z</when>
+            <when>2019-02-06T13:42:01Z</when>
+            <when>2019-02-06T13:42:19Z</when>
+            <when>2019-02-06T13:42:35Z</when>
+            <when>2019-02-06T13:43:04Z</when>
+            <when>2019-02-06T13:43:27Z</when>
+            <when>2019-02-06T13:43:57Z</when>
+            <when>2019-02-06T13:44:28Z</when>
+            <when>2019-02-06T13:44:58Z</when>
+            <when>2019-02-06T13:45:28Z</when>
+            <when>2019-02-06T13:45:58Z</when>
+            <when>2019-02-06T13:46:37Z</when>
+            <when>2019-02-06T13:47:04Z</when>
+            <when>2019-02-06T13:47:36Z</when>
+            <when>2019-02-06T13:47:52Z</when>
+            <when>2019-02-06T13:48:24Z</when>
+            <when>2019-02-06T13:48:53Z</when>
+            <when>2019-02-06T13:49:23Z</when>
+            <when>2019-02-06T13:49:47Z</when>
+            <when>2019-02-06T13:50:18Z</when>
+            <when>2019-02-06T13:50:48Z</when>
+            <when>2019-02-06T13:51:34Z</when>
+            <when>2019-02-06T13:52:04Z</when>
+            <when>2019-02-06T13:52:35Z</when>
+            <when>2019-02-06T13:53:05Z</when>
+            <when>2019-02-06T13:53:35Z</when>
+            <when>2019-02-06T13:54:06Z</when>
+            <when>2019-02-06T13:54:38Z</when>
+            <when>2019-02-06T13:55:08Z</when>
+            <when>2019-02-06T13:55:38Z</when>
+            <when>2019-02-06T13:56:08Z</when>
+            <when>2019-02-06T13:56:38Z</when>
+            <when>2019-02-06T13:57:08Z</when>
+            <when>2019-02-06T13:57:24Z</when>
+            <when>2019-02-06T13:57:54Z</when>
+            <when>2019-02-06T13:58:15Z</when>
+            <when>2019-02-06T13:58:38Z</when>
+            <when>2019-02-06T13:58:55Z</when>
+            <when>2019-02-06T13:59:17Z</when>
+            <when>2019-02-06T13:59:39Z</when>
+            <when>2019-02-06T14:00:17Z</when>
+            <when>2019-02-06T14:00:36Z</when>
+            <when>2019-02-06T14:00:54Z</when>
+            <when>2019-02-06T14:01:27Z</when>
+            <when>2019-02-06T14:01:55Z</when>
+            <when>2019-02-06T14:02:15Z</when>
+            <when>2019-02-06T14:02:59Z</when>
+            <when>2019-02-06T14:03:27Z</when>
+            <when>2019-02-06T14:03:57Z</when>
+            <when>2019-02-06T14:04:27Z</when>
+            <when>2019-02-06T14:05:04Z</when>
+            <when>2019-02-06T14:05:34Z</when>
+            <when>2019-02-06T14:06:05Z</when>
+            <when>2019-02-06T14:06:35Z</when>
+            <when>2019-02-06T14:06:59Z</when>
+            <when>2019-02-06T14:07:18Z</when>
+            <when>2019-02-06T14:07:47Z</when>
+            <when>2019-02-06T14:08:05Z</when>
+            <when>2019-02-06T14:08:23Z</when>
+            <when>2019-02-06T14:08:54Z</when>
+            <when>2019-02-06T14:09:24Z</when>
+            <when>2019-02-06T14:09:48Z</when>
+            <when>2019-02-06T14:10:04Z</when>
+            <when>2019-02-06T14:10:35Z</when>
+            <when>2019-02-06T14:10:51Z</when>
+            <when>2019-02-06T14:11:22Z</when>
+            <when>2019-02-06T14:11:53Z</when>
+            <when>2019-02-06T14:12:26Z</when>
+            <when>2019-02-06T14:12:57Z</when>
+            <when>2019-02-06T14:13:20Z</when>
+            <when>2019-02-06T14:13:40Z</when>
+            <when>2019-02-06T14:13:57Z</when>
+            <when>2019-02-06T14:14:27Z</when>
+            <when>2019-02-06T14:14:57Z</when>
+            <when>2019-02-06T14:15:27Z</when>
+            <when>2019-02-06T14:15:57Z</when>
+            <when>2019-02-06T14:16:41Z</when>
+            <when>2019-02-06T14:17:11Z</when>
+            <when>2019-02-06T14:17:42Z</when>
+            <when>2019-02-06T14:18:12Z</when>
+            <when>2019-02-06T14:18:42Z</when>
+            <when>2019-02-06T14:19:12Z</when>
+            <when>2019-02-06T14:19:42Z</when>
+            <when>2019-02-06T14:20:12Z</when>
+            <when>2019-02-06T14:20:42Z</when>
+            <when>2019-02-06T14:21:12Z</when>
+            <when>2019-02-06T14:21:43Z</when>
+            <when>2019-02-06T14:22:13Z</when>
+            <when>2019-02-06T14:22:43Z</when>
+            <when>2019-02-06T14:23:13Z</when>
+            <when>2019-02-06T14:23:44Z</when>
+            <when>2019-02-06T14:24:11Z</when>
+            <when>2019-02-06T14:24:41Z</when>
+            <when>2019-02-06T14:25:12Z</when>
+            <when>2019-02-06T14:25:42Z</when>
+            <when>2019-02-06T14:26:12Z</when>
+            <when>2019-02-06T14:26:39Z</when>
+            <when>2019-02-06T14:27:09Z</when>
+            <when>2019-02-06T14:27:39Z</when>
+            <when>2019-02-06T14:28:13Z</when>
+            <when>2019-02-06T14:28:44Z</when>
+            <when>2019-02-06T14:29:16Z</when>
+            <when>2019-02-06T14:29:48Z</when>
+            <when>2019-02-06T14:30:20Z</when>
+            <when>2019-02-06T14:30:50Z</when>
+            <when>2019-02-06T14:31:20Z</when>
+            <when>2019-02-06T14:31:53Z</when>
+            <when>2019-02-06T14:32:23Z</when>
+            <when>2019-02-06T14:32:53Z</when>
+            <when>2019-02-06T14:33:23Z</when>
+            <when>2019-02-06T14:33:53Z</when>
+            <when>2019-02-06T14:34:23Z</when>
+            <when>2019-02-06T14:34:54Z</when>
+            <when>2019-02-06T14:35:24Z</when>
+            <when>2019-02-06T14:35:54Z</when>
+            <when>2019-02-06T14:36:21Z</when>
+            <when>2019-02-06T14:36:52Z</when>
+            <when>2019-02-06T14:37:21Z</when>
+            <when>2019-02-06T14:37:51Z</when>
+            <when>2019-02-06T14:38:22Z</when>
+            <when>2019-02-06T14:38:53Z</when>
+            <when>2019-02-06T14:39:23Z</when>
+            <when>2019-02-06T14:39:53Z</when>
+            <when>2019-02-06T14:40:23Z</when>
+            <when>2019-02-06T14:40:44Z</when>
+            <when>2019-02-06T14:41:14Z</when>
+            <when>2019-02-06T14:41:31Z</when>
+            <when>2019-02-06T14:42:14Z</when>
+            <when>2019-02-06T14:42:44Z</when>
+            <when>2019-02-06T14:43:24Z</when>
+            <when>2019-02-06T14:44:06Z</when>
+            <when>2019-02-06T14:44:43Z</when>
+            <when>2019-02-06T14:45:15Z</when>
+            <when>2019-02-06T14:45:46Z</when>
+            <when>2019-02-06T14:46:16Z</when>
+            <when>2019-02-06T14:46:52Z</when>
+            <when>2019-02-06T14:47:23Z</when>
+            <when>2019-02-06T14:47:53Z</when>
+            <when>2019-02-06T14:48:29Z</when>
+            <when>2019-02-06T14:48:53Z</when>
+            <when>2019-02-06T14:49:23Z</when>
+            <when>2019-02-06T14:50:01Z</when>
+            <when>2019-02-06T14:50:31Z</when>
+            <when>2019-02-06T14:51:01Z</when>
+            <when>2019-02-06T14:51:32Z</when>
+            <when>2019-02-06T14:52:02Z</when>
+            <when>2019-02-06T14:52:32Z</when>
+            <when>2019-02-06T14:53:03Z</when>
+            <when>2019-02-06T14:53:36Z</when>
+            <when>2019-02-06T14:54:08Z</when>
+            <when>2019-02-06T14:54:39Z</when>
+            <when>2019-02-06T14:55:09Z</when>
+            <when>2019-02-06T14:55:41Z</when>
+            <when>2019-02-06T14:56:11Z</when>
+            <when>2019-02-06T14:56:42Z</when>
+            <when>2019-02-06T14:57:00Z</when>
+            <when>2019-02-06T14:57:30Z</when>
+            <when>2019-02-06T14:57:57Z</when>
+            <when>2019-02-06T14:58:28Z</when>
+            <when>2019-02-06T14:58:58Z</when>
+            <when>2019-02-06T14:59:16Z</when>
+            <when>2019-02-06T14:59:36Z</when>
+            <when>2019-02-06T14:59:56Z</when>
+            <when>2019-02-06T15:00:26Z</when>
+            <when>2019-02-06T15:00:56Z</when>
+            <when>2019-02-06T15:01:26Z</when>
+            <when>2019-02-06T15:01:56Z</when>
+            <when>2019-02-06T15:02:26Z</when>
+            <when>2019-02-06T15:02:55Z</when>
+            <when>2019-02-06T15:03:26Z</when>
+            <when>2019-02-06T15:04:05Z</when>
+            <when>2019-02-06T15:04:35Z</when>
+            <when>2019-02-06T15:05:05Z</when>
+            <when>2019-02-06T15:05:30Z</when>
+            <when>2019-02-06T15:05:52Z</when>
+            <when>2019-02-06T15:06:13Z</when>
+            <when>2019-02-06T15:06:45Z</when>
+            <when>2019-02-06T15:07:16Z</when>
+            <when>2019-02-06T15:07:46Z</when>
+            <when>2019-02-06T15:08:17Z</when>
+            <when>2019-02-06T15:08:47Z</when>
+            <when>2019-02-06T15:09:24Z</when>
+            <when>2019-02-06T15:09:59Z</when>
+            <when>2019-02-06T15:10:29Z</when>
+            <when>2019-02-06T15:10:59Z</when>
+            <when>2019-02-06T15:11:23Z</when>
+            <when>2019-02-06T15:11:53Z</when>
+            <when>2019-02-06T15:12:23Z</when>
+            <when>2019-02-06T15:12:41Z</when>
+            <when>2019-02-06T15:13:00Z</when>
+            <when>2019-02-06T15:13:30Z</when>
+            <when>2019-02-06T15:14:07Z</when>
+            <when>2019-02-06T15:14:31Z</when>
+            <when>2019-02-06T15:15:03Z</when>
+            <when>2019-02-06T15:15:33Z</when>
+            <when>2019-02-06T15:16:03Z</when>
+            <when>2019-02-06T15:16:33Z</when>
+            <when>2019-02-06T15:17:03Z</when>
+            <when>2019-02-06T15:17:34Z</when>
+            <when>2019-02-06T15:18:05Z</when>
+            <when>2019-02-06T15:18:36Z</when>
+            <when>2019-02-06T15:19:06Z</when>
+            <when>2019-02-06T15:19:36Z</when>
+            <when>2019-02-06T15:20:06Z</when>
+            <when>2019-02-06T15:20:36Z</when>
+            <when>2019-02-06T15:21:06Z</when>
+            <when>2019-02-06T15:21:24Z</when>
+            <when>2019-02-06T15:21:54Z</when>
+            <when>2019-02-06T15:22:24Z</when>
+            <when>2019-02-06T15:22:54Z</when>
+            <when>2019-02-06T15:23:28Z</when>
+            <when>2019-02-06T15:23:56Z</when>
+            <when>2019-02-06T15:24:20Z</when>
+            <when>2019-02-06T15:24:50Z</when>
+            <when>2019-02-06T15:25:08Z</when>
+            <when>2019-02-06T15:25:25Z</when>
+            <when>2019-02-06T15:25:52Z</when>
+            <when>2019-02-06T15:26:09Z</when>
+            <when>2019-02-06T15:26:32Z</when>
+            <when>2019-02-06T15:26:51Z</when>
+            <when>2019-02-06T15:27:24Z</when>
+            <when>2019-02-06T15:27:52Z</when>
+            <when>2019-02-06T15:28:20Z</when>
+            <when>2019-02-06T15:28:41Z</when>
+            <when>2019-02-06T15:29:20Z</when>
+            <when>2019-02-06T15:29:50Z</when>
+            <when>2019-02-06T15:30:20Z</when>
+            <when>2019-02-06T15:30:50Z</when>
+            <when>2019-02-06T15:31:20Z</when>
+            <when>2019-02-06T15:31:50Z</when>
+            <when>2019-02-06T15:32:20Z</when>
+            <when>2019-02-06T15:32:50Z</when>
+            <when>2019-02-06T15:33:20Z</when>
+            <when>2019-02-06T15:33:42Z</when>
+            <when>2019-02-06T15:34:12Z</when>
+            <when>2019-02-06T15:34:42Z</when>
+            <when>2019-02-06T15:35:03Z</when>
+            <when>2019-02-06T15:35:47Z</when>
+            <when>2019-02-06T15:36:17Z</when>
+            <when>2019-02-06T15:36:44Z</when>
+            <when>2019-02-06T15:37:14Z</when>
+            <when>2019-02-06T15:37:44Z</when>
+            <when>2019-02-06T15:38:15Z</when>
+            <when>2019-02-06T15:38:45Z</when>
+            <when>2019-02-06T15:39:16Z</when>
+            <when>2019-02-06T15:39:46Z</when>
+            <when>2019-02-06T15:40:16Z</when>
+            <when>2019-02-06T15:40:48Z</when>
+            <when>2019-02-06T15:41:18Z</when>
+            <when>2019-02-06T15:41:38Z</when>
+            <when>2019-02-06T15:42:23Z</when>
+            <when>2019-02-06T15:42:53Z</when>
+            <when>2019-02-06T15:43:11Z</when>
+            <when>2019-02-06T15:43:35Z</when>
+            <when>2019-02-06T15:44:05Z</when>
+            <when>2019-02-06T15:44:35Z</when>
+            <when>2019-02-06T15:45:05Z</when>
+            <when>2019-02-06T15:45:35Z</when>
+            <when>2019-02-06T15:46:10Z</when>
+            <when>2019-02-06T15:46:40Z</when>
+            <when>2019-02-06T15:47:10Z</when>
+            <when>2019-02-06T15:47:40Z</when>
+            <when>2019-02-06T15:48:10Z</when>
+            <when>2019-02-06T15:48:40Z</when>
+            <when>2019-02-06T15:49:10Z</when>
+            <when>2019-02-06T15:49:40Z</when>
+            <when>2019-02-06T15:50:10Z</when>
+            <when>2019-02-06T15:50:40Z</when>
+            <when>2019-02-06T15:51:10Z</when>
+            <when>2019-02-06T15:51:40Z</when>
+            <when>2019-02-06T15:52:10Z</when>
+            <when>2019-02-06T15:52:38Z</when>
+            <when>2019-02-06T15:53:09Z</when>
+            <when>2019-02-06T15:53:39Z</when>
+            <when>2019-02-06T15:54:23Z</when>
+            <when>2019-02-06T15:54:40Z</when>
+            <when>2019-02-06T15:55:10Z</when>
+            <when>2019-02-06T15:55:40Z</when>
+            <when>2019-02-06T15:55:56Z</when>
+            <when>2019-02-06T15:56:26Z</when>
+            <when>2019-02-06T15:56:56Z</when>
+            <when>2019-02-06T15:57:26Z</when>
+            <when>2019-02-06T15:57:56Z</when>
+            <when>2019-02-06T15:58:27Z</when>
+            <when>2019-02-06T15:58:57Z</when>
+            <when>2019-02-06T15:59:27Z</when>
+            <when>2019-02-06T15:59:59Z</when>
+            <when>2019-02-06T16:00:29Z</when>
+            <when>2019-02-06T16:00:59Z</when>
+            <when>2019-02-06T16:01:29Z</when>
+            <when>2019-02-06T16:02:01Z</when>
+            <when>2019-02-06T16:02:32Z</when>
+            <when>2019-02-06T16:03:03Z</when>
+            <when>2019-02-06T16:03:37Z</when>
+            <when>2019-02-06T16:04:07Z</when>
+            <when>2019-02-06T16:04:39Z</when>
+            <when>2019-02-06T16:05:10Z</when>
+            <when>2019-02-06T16:05:40Z</when>
+            <when>2019-02-06T16:06:10Z</when>
+            <when>2019-02-06T16:06:42Z</when>
+            <when>2019-02-06T16:07:12Z</when>
+            <when>2019-02-06T16:07:44Z</when>
+            <when>2019-02-06T16:08:14Z</when>
+            <when>2019-02-06T16:08:44Z</when>
+            <when>2019-02-06T16:09:15Z</when>
+            <when>2019-02-06T16:09:46Z</when>
+            <when>2019-02-06T16:10:16Z</when>
+            <when>2019-02-06T16:10:47Z</when>
+            <when>2019-02-06T16:11:29Z</when>
+            <when>2019-02-06T16:11:59Z</when>
+            <when>2019-02-06T16:12:29Z</when>
+            <when>2019-02-06T16:12:59Z</when>
+            <when>2019-02-06T16:13:29Z</when>
+            <when>2019-02-06T16:14:00Z</when>
+            <when>2019-02-06T16:14:36Z</when>
+            <when>2019-02-06T16:15:10Z</when>
+            <when>2019-02-06T16:15:47Z</when>
+            <when>2019-02-06T16:16:17Z</when>
+            <when>2019-02-06T16:16:47Z</when>
+            <when>2019-02-06T16:17:17Z</when>
+            <when>2019-02-06T16:17:48Z</when>
+            <when>2019-02-06T16:18:18Z</when>
+            <when>2019-02-06T16:18:48Z</when>
+            <when>2019-02-06T16:19:19Z</when>
+            <when>2019-02-06T16:19:50Z</when>
+            <when>2019-02-06T16:20:20Z</when>
+            <when>2019-02-06T16:20:50Z</when>
+            <when>2019-02-06T16:21:20Z</when>
+            <when>2019-02-06T16:22:03Z</when>
+            <when>2019-02-06T16:22:24Z</when>
+            <when>2019-02-06T16:22:54Z</when>
+            <when>2019-02-06T16:23:24Z</when>
+            <when>2019-02-06T16:23:54Z</when>
+            <when>2019-02-06T16:24:24Z</when>
+            <when>2019-02-06T16:24:55Z</when>
+            <when>2019-02-06T16:25:25Z</when>
+            <when>2019-02-06T16:25:55Z</when>
+            <when>2019-02-06T16:26:26Z</when>
+            <when>2019-02-06T16:27:08Z</when>
+            <when>2019-02-06T16:27:38Z</when>
+            <when>2019-02-06T16:28:08Z</when>
+            <when>2019-02-06T16:28:38Z</when>
+            <when>2019-02-06T16:29:08Z</when>
+            <when>2019-02-06T16:29:39Z</when>
+            <when>2019-02-06T16:30:10Z</when>
+            <when>2019-02-06T16:30:40Z</when>
+            <when>2019-02-06T16:31:12Z</when>
+            <when>2019-02-06T16:31:29Z</when>
+            <when>2019-02-06T16:31:59Z</when>
+            <when>2019-02-06T16:32:29Z</when>
+            <when>2019-02-06T16:32:49Z</when>
+            <when>2019-02-06T16:33:19Z</when>
+            <when>2019-02-06T16:33:44Z</when>
+            <when>2019-02-06T16:34:00Z</when>
+            <when>2019-02-06T16:34:40Z</when>
+            <when>2019-02-06T16:35:03Z</when>
+            <when>2019-02-06T16:35:25Z</when>
+            <when>2019-02-06T16:35:55Z</when>
+            <when>2019-02-06T16:36:13Z</when>
+            <when>2019-02-06T16:36:35Z</when>
+            <when>2019-02-06T16:36:51Z</when>
+            <when>2019-02-06T16:37:19Z</when>
+            <when>2019-02-06T16:37:41Z</when>
+            <when>2019-02-06T16:38:08Z</when>
+            <when>2019-02-06T16:38:25Z</when>
+            <when>2019-02-06T16:38:45Z</when>
+            <when>2019-02-06T16:39:20Z</when>
+            <when>2019-02-06T16:39:50Z</when>
+            <when>2019-02-06T16:40:33Z</when>
+            <when>2019-02-06T16:40:54Z</when>
+            <when>2019-02-06T16:41:18Z</when>
+            <when>2019-02-06T16:41:43Z</when>
+            <when>2019-02-06T16:42:08Z</when>
+            <when>2019-02-06T16:42:36Z</when>
+            <when>2019-02-06T16:43:18Z</when>
+            <when>2019-02-06T16:43:37Z</when>
+            <when>2019-02-06T16:44:02Z</when>
+            <when>2019-02-06T16:44:43Z</when>
+            <when>2019-02-06T16:45:03Z</when>
+            <when>2019-02-06T16:45:23Z</when>
+            <when>2019-02-06T16:45:40Z</when>
+            <when>2019-02-06T16:46:12Z</when>
+            <when>2019-02-06T16:46:28Z</when>
+            <when>2019-02-06T16:46:44Z</when>
+            <when>2019-02-06T16:47:05Z</when>
+            <when>2019-02-06T16:47:23Z</when>
+            <when>2019-02-06T16:47:44Z</when>
+            <when>2019-02-06T16:48:00Z</when>
+            <when>2019-02-06T16:48:18Z</when>
+            <when>2019-02-06T16:48:37Z</when>
+            <when>2019-02-06T16:48:58Z</when>
+            <when>2019-02-06T16:49:17Z</when>
+            <when>2019-02-06T16:49:39Z</when>
+            <when>2019-02-06T16:49:59Z</when>
+            <when>2019-02-06T16:50:22Z</when>
+            <when>2019-02-06T16:50:47Z</when>
+            <when>2019-02-06T16:51:08Z</when>
+            <when>2019-02-06T16:51:32Z</when>
+            <when>2019-02-06T16:51:53Z</when>
+            <when>2019-02-06T16:52:13Z</when>
+            <when>2019-02-06T16:52:31Z</when>
+            <when>2019-02-06T16:52:47Z</when>
+            <when>2019-02-06T16:53:06Z</when>
+            <when>2019-02-06T16:53:24Z</when>
+            <when>2019-02-06T16:53:40Z</when>
+            <when>2019-02-06T16:54:02Z</when>
+            <when>2019-02-06T16:54:20Z</when>
+            <when>2019-02-06T16:54:38Z</when>
+            <when>2019-02-06T16:55:00Z</when>
+            <when>2019-02-06T16:55:16Z</when>
+            <when>2019-02-06T16:55:32Z</when>
+            <when>2019-02-06T16:55:49Z</when>
+            <when>2019-02-06T16:56:06Z</when>
+            <when>2019-02-06T16:56:36Z</when>
+            <when>2019-02-06T16:56:57Z</when>
+            <when>2019-02-06T16:57:15Z</when>
+            <when>2019-02-06T16:57:32Z</when>
+            <when>2019-02-06T16:57:53Z</when>
+            <when>2019-02-06T16:58:16Z</when>
+            <when>2019-02-06T16:58:37Z</when>
+            <when>2019-02-06T16:58:55Z</when>
+            <when>2019-02-06T16:59:16Z</when>
+            <when>2019-02-06T16:59:33Z</when>
+            <when>2019-02-06T16:59:55Z</when>
+            <when>2019-02-06T17:00:12Z</when>
+            <when>2019-02-06T17:00:39Z</when>
+            <when>2019-02-06T17:00:55Z</when>
+            <when>2019-02-06T17:01:11Z</when>
+            <when>2019-02-06T17:01:27Z</when>
+            <when>2019-02-06T17:01:43Z</when>
+            <gx:coord>-78.80890 35.86910 312</gx:coord>
+            <gx:coord>-78.81990 35.86060 427</gx:coord>
+            <gx:coord>-78.83350 35.85030 495</gx:coord>
+            <gx:coord>-78.84750 35.83960 655</gx:coord>
+            <gx:coord>-78.86480 35.82640 952</gx:coord>
+            <gx:coord>-78.88290 35.81830 1151</gx:coord>
+            <gx:coord>-78.96546 35.81976 1928</gx:coord>
+            <gx:coord>-78.99836 35.82069 2210</gx:coord>
+            <gx:coord>-79.03616 35.82230 2545</gx:coord>
+            <gx:coord>-79.07164 35.82417 2941</gx:coord>
+            <gx:coord>-79.09864 35.82532 3147</gx:coord>
+            <gx:coord>-79.13177 35.82692 3238</gx:coord>
+            <gx:coord>-79.18945 35.83022 3322</gx:coord>
+            <gx:coord>-79.27623 35.83340 3620</gx:coord>
+            <gx:coord>-79.32363 35.83256 3924</gx:coord>
+            <gx:coord>-79.39230 35.82761 4267</gx:coord>
+            <gx:coord>-79.44025 35.82413 4496</gx:coord>
+            <gx:coord>-79.51302 35.81892 4892</gx:coord>
+            <gx:coord>-79.55884 35.81343 5098</gx:coord>
+            <gx:coord>-79.62221 35.80280 5448</gx:coord>
+            <gx:coord>-79.69048 35.79126 5723</gx:coord>
+            <gx:coord>-79.75881 35.77968 6035</gx:coord>
+            <gx:coord>-79.82567 35.76818 6340</gx:coord>
+            <gx:coord>-79.86271 35.76178 6515</gx:coord>
+            <gx:coord>-79.95478 35.74571 6835</gx:coord>
+            <gx:coord>-80.02922 35.73276 7026</gx:coord>
+            <gx:coord>-80.10196 35.72004 7201</gx:coord>
+            <gx:coord>-80.15222 35.71129 7323</gx:coord>
+            <gx:coord>-80.20990 35.70114 7544</gx:coord>
+            <gx:coord>-80.26138 35.69211 7727</gx:coord>
+            <gx:coord>-80.31906 35.68201 7948</gx:coord>
+            <gx:coord>-80.35601 35.67549 8054</gx:coord>
+            <gx:coord>-80.40508 35.66688 8313</gx:coord>
+            <gx:coord>-80.44108 35.66083 8519</gx:coord>
+            <gx:coord>-80.48292 35.65768 8710</gx:coord>
+            <gx:coord>-80.51983 35.65851 8839</gx:coord>
+            <gx:coord>-80.58346 35.66400 8999</gx:coord>
+            <gx:coord>-80.63616 35.66840 9114</gx:coord>
+            <gx:coord>-80.70362 35.67407 9144</gx:coord>
+            <gx:coord>-80.77376 35.68029 9144</gx:coord>
+            <gx:coord>-80.84455 35.68620 9144</gx:coord>
+            <gx:coord>-80.90796 35.69142 9144</gx:coord>
+            <gx:coord>-80.96801 35.69626 9144</gx:coord>
+            <gx:coord>-81.06892 35.70483 9144</gx:coord>
+            <gx:coord>-81.13105 35.71018 9144</gx:coord>
+            <gx:coord>-81.20413 35.71614 9144</gx:coord>
+            <gx:coord>-81.24315 35.71921 9144</gx:coord>
+            <gx:coord>-81.31648 35.72503 9144</gx:coord>
+            <gx:coord>-81.38083 35.73019 9144</gx:coord>
+            <gx:coord>-81.44995 35.73583 9144</gx:coord>
+            <gx:coord>-81.50620 35.74026 9144</gx:coord>
+            <gx:coord>-81.57489 35.74560 9144</gx:coord>
+            <gx:coord>-81.64661 35.75116 9144</gx:coord>
+            <gx:coord>-81.75241 35.75931 9144</gx:coord>
+            <gx:coord>-81.82226 35.76464 9144</gx:coord>
+            <gx:coord>-81.89115 35.76995 9144</gx:coord>
+            <gx:coord>-81.96218 35.77538 9144</gx:coord>
+            <gx:coord>-82.02576 35.78009 9144</gx:coord>
+            <gx:coord>-82.10238 35.78577 9144</gx:coord>
+            <gx:coord>-82.17653 35.79126 9144</gx:coord>
+            <gx:coord>-82.24543 35.79630 9144</gx:coord>
+            <gx:coord>-82.31483 35.80119 9144</gx:coord>
+            <gx:coord>-82.38213 35.80605 9144</gx:coord>
+            <gx:coord>-82.45188 35.81117 9144</gx:coord>
+            <gx:coord>-82.51934 35.81584 9144</gx:coord>
+            <gx:coord>-82.55688 35.81850 9144</gx:coord>
+            <gx:coord>-82.62302 35.82317 9144</gx:coord>
+            <gx:coord>-82.67574 35.82674 9144</gx:coord>
+            <gx:coord>-82.72476 35.83012 9144</gx:coord>
+            <gx:coord>-82.76492 35.83293 9144</gx:coord>
+            <gx:coord>-82.81535 35.83642 9144</gx:coord>
+            <gx:coord>-82.86438 35.83974 9144</gx:coord>
+            <gx:coord>-82.95256 35.84564 9144</gx:coord>
+            <gx:coord>-82.99587 35.84848 9121</gx:coord>
+            <gx:coord>-83.03829 35.85127 9014</gx:coord>
+            <gx:coord>-83.11426 35.85630 8854</gx:coord>
+            <gx:coord>-83.17835 35.86047 8725</gx:coord>
+            <gx:coord>-83.22504 35.86354 8618</gx:coord>
+            <gx:coord>-83.32094 35.86972 8534</gx:coord>
+            <gx:coord>-83.39196 35.87423 8534</gx:coord>
+            <gx:coord>-83.46245 35.87869 8534</gx:coord>
+            <gx:coord>-83.52841 35.88279 8534</gx:coord>
+            <gx:coord>-83.61899 35.88833 8534</gx:coord>
+            <gx:coord>-83.68898 35.89256 8534</gx:coord>
+            <gx:coord>-83.75776 35.89668 8534</gx:coord>
+            <gx:coord>-83.83048 35.90099 8534</gx:coord>
+            <gx:coord>-83.88680 35.90657 8534</gx:coord>
+            <gx:coord>-83.92550 35.91496 8534</gx:coord>
+            <gx:coord>-83.99094 35.93500 8534</gx:coord>
+            <gx:coord>-84.02910 35.94411 8534</gx:coord>
+            <gx:coord>-84.07133 35.94214 8534</gx:coord>
+            <gx:coord>-84.14376 35.93018 8534</gx:coord>
+            <gx:coord>-84.21202 35.91947 8534</gx:coord>
+            <gx:coord>-84.27057 35.91064 8534</gx:coord>
+            <gx:coord>-84.30400 35.91002 8534</gx:coord>
+            <gx:coord>-84.37734 35.91058 8534</gx:coord>
+            <gx:coord>-84.41328 35.91091 8534</gx:coord>
+            <gx:coord>-84.48647 35.91183 8534</gx:coord>
+            <gx:coord>-84.55996 35.91286 8534</gx:coord>
+            <gx:coord>-84.63203 35.91389 8534</gx:coord>
+            <gx:coord>-84.70533 35.91481 8534</gx:coord>
+            <gx:coord>-84.75878 35.91650 8534</gx:coord>
+            <gx:coord>-84.80169 35.92630 8534</gx:coord>
+            <gx:coord>-84.83677 35.94072 8534</gx:coord>
+            <gx:coord>-84.89822 35.96727 8534</gx:coord>
+            <gx:coord>-84.95996 35.99349 8534</gx:coord>
+            <gx:coord>-85.02371 36.02046 8534</gx:coord>
+            <gx:coord>-85.08499 36.04642 8534</gx:coord>
+            <gx:coord>-85.17291 36.08352 8534</gx:coord>
+            <gx:coord>-85.23628 36.11023 8534</gx:coord>
+            <gx:coord>-85.29955 36.13678 8534</gx:coord>
+            <gx:coord>-85.36406 36.16383 8534</gx:coord>
+            <gx:coord>-85.42279 36.18836 8534</gx:coord>
+            <gx:coord>-85.48628 36.21501 8534</gx:coord>
+            <gx:coord>-85.54750 36.24055 8534</gx:coord>
+            <gx:coord>-85.61108 36.26694 8534</gx:coord>
+            <gx:coord>-85.67207 36.29228 8534</gx:coord>
+            <gx:coord>-85.73508 36.31847 8534</gx:coord>
+            <gx:coord>-85.79641 36.34383 8534</gx:coord>
+            <gx:coord>-85.85896 36.36960 8534</gx:coord>
+            <gx:coord>-85.92321 36.39615 8534</gx:coord>
+            <gx:coord>-85.98381 36.42114 8534</gx:coord>
+            <gx:coord>-86.04960 36.44817 8534</gx:coord>
+            <gx:coord>-86.10675 36.47158 8534</gx:coord>
+            <gx:coord>-86.17126 36.49798 8534</gx:coord>
+            <gx:coord>-86.23514 36.52409 8534</gx:coord>
+            <gx:coord>-86.30024 36.55055 8534</gx:coord>
+            <gx:coord>-86.36265 36.57600 8534</gx:coord>
+            <gx:coord>-86.41399 36.59688 8534</gx:coord>
+            <gx:coord>-86.48581 36.62590 8534</gx:coord>
+            <gx:coord>-86.54971 36.65174 8534</gx:coord>
+            <gx:coord>-86.62165 36.68083 8534</gx:coord>
+            <gx:coord>-86.68814 36.70766 8534</gx:coord>
+            <gx:coord>-86.75606 36.73494 8534</gx:coord>
+            <gx:coord>-86.82454 36.76226 8534</gx:coord>
+            <gx:coord>-86.89596 36.79079 8534</gx:coord>
+            <gx:coord>-86.96053 36.81658 8534</gx:coord>
+            <gx:coord>-87.02345 36.84164 8534</gx:coord>
+            <gx:coord>-87.09859 36.87165 8534</gx:coord>
+            <gx:coord>-87.16360 36.89745 8534</gx:coord>
+            <gx:coord>-87.23025 36.92379 8534</gx:coord>
+            <gx:coord>-87.29480 36.94930 8534</gx:coord>
+            <gx:coord>-87.36101 36.97533 8534</gx:coord>
+            <gx:coord>-87.42710 37.00136 8534</gx:coord>
+            <gx:coord>-87.49547 37.02832 8534</gx:coord>
+            <gx:coord>-87.56080 37.05386 8534</gx:coord>
+            <gx:coord>-87.62374 37.07845 8534</gx:coord>
+            <gx:coord>-87.68124 37.10088 8534</gx:coord>
+            <gx:coord>-87.74424 37.12537 8534</gx:coord>
+            <gx:coord>-87.80607 37.14940 8534</gx:coord>
+            <gx:coord>-87.86696 37.17307 8534</gx:coord>
+            <gx:coord>-87.93510 37.19939 8534</gx:coord>
+            <gx:coord>-87.99967 37.22433 8534</gx:coord>
+            <gx:coord>-88.06330 37.24887 8534</gx:coord>
+            <gx:coord>-88.12642 37.27318 8534</gx:coord>
+            <gx:coord>-88.18907 37.29694 8534</gx:coord>
+            <gx:coord>-88.23593 37.30742 8534</gx:coord>
+            <gx:coord>-88.30139 37.31891 8534</gx:coord>
+            <gx:coord>-88.34602 37.32693 8534</gx:coord>
+            <gx:coord>-88.44520 37.34468 8534</gx:coord>
+            <gx:coord>-88.51410 37.35695 8534</gx:coord>
+            <gx:coord>-88.60561 37.37361 8534</gx:coord>
+            <gx:coord>-88.69876 37.39655 8534</gx:coord>
+            <gx:coord>-88.78314 37.42181 8534</gx:coord>
+            <gx:coord>-88.85205 37.44850 8534</gx:coord>
+            <gx:coord>-88.91940 37.47488 8534</gx:coord>
+            <gx:coord>-88.98014 37.49840 8534</gx:coord>
+            <gx:coord>-89.05804 37.52837 8534</gx:coord>
+            <gx:coord>-89.12261 37.55315 8534</gx:coord>
+            <gx:coord>-89.18666 37.57764 8534</gx:coord>
+            <gx:coord>-89.26216 37.60648 8534</gx:coord>
+            <gx:coord>-89.31295 37.62589 8534</gx:coord>
+            <gx:coord>-89.37805 37.65065 8534</gx:coord>
+            <gx:coord>-89.44895 37.67757 8534</gx:coord>
+            <gx:coord>-89.52144 37.70503 8534</gx:coord>
+            <gx:coord>-89.58813 37.73026 8534</gx:coord>
+            <gx:coord>-89.65440 37.75525 8534</gx:coord>
+            <gx:coord>-89.71950 37.77969 8534</gx:coord>
+            <gx:coord>-89.78092 37.80281 8534</gx:coord>
+            <gx:coord>-89.84756 37.82774 8534</gx:coord>
+            <gx:coord>-89.91865 37.85440 8534</gx:coord>
+            <gx:coord>-89.98537 37.87937 8534</gx:coord>
+            <gx:coord>-90.05135 37.90390 8534</gx:coord>
+            <gx:coord>-90.11583 37.92778 8534</gx:coord>
+            <gx:coord>-90.18366 37.95297 8534</gx:coord>
+            <gx:coord>-90.24821 37.97685 8534</gx:coord>
+            <gx:coord>-90.31434 38.00121 8534</gx:coord>
+            <gx:coord>-90.35037 38.01446 8534</gx:coord>
+            <gx:coord>-90.41623 38.03872 8534</gx:coord>
+            <gx:coord>-90.47370 38.05980 8534</gx:coord>
+            <gx:coord>-90.53672 38.08271 8534</gx:coord>
+            <gx:coord>-90.59792 38.10510 8534</gx:coord>
+            <gx:coord>-90.63727 38.11944 8534</gx:coord>
+            <gx:coord>-90.67969 38.13469 8534</gx:coord>
+            <gx:coord>-90.72581 38.14118 8534</gx:coord>
+            <gx:coord>-90.78973 38.14581 8534</gx:coord>
+            <gx:coord>-90.85693 38.15072 8534</gx:coord>
+            <gx:coord>-90.92484 38.15588 8534</gx:coord>
+            <gx:coord>-90.99239 38.16042 8534</gx:coord>
+            <gx:coord>-91.05936 38.16467 8534</gx:coord>
+            <gx:coord>-91.12652 38.16906 8534</gx:coord>
+            <gx:coord>-91.19518 38.17363 8534</gx:coord>
+            <gx:coord>-91.28307 38.17972 8534</gx:coord>
+            <gx:coord>-91.34869 38.18438 8534</gx:coord>
+            <gx:coord>-91.41610 38.18913 8534</gx:coord>
+            <gx:coord>-91.47265 38.19779 8534</gx:coord>
+            <gx:coord>-91.52237 38.21461 8534</gx:coord>
+            <gx:coord>-91.56538 38.23146 8534</gx:coord>
+            <gx:coord>-91.63093 38.25686 8534</gx:coord>
+            <gx:coord>-91.69756 38.28259 8534</gx:coord>
+            <gx:coord>-91.76062 38.30695 8534</gx:coord>
+            <gx:coord>-91.82516 38.33181 8534</gx:coord>
+            <gx:coord>-91.88754 38.35579 8534</gx:coord>
+            <gx:coord>-91.96667 38.38609 8534</gx:coord>
+            <gx:coord>-92.04059 38.41425 8534</gx:coord>
+            <gx:coord>-92.10205 38.43776 8534</gx:coord>
+            <gx:coord>-92.16736 38.46262 8534</gx:coord>
+            <gx:coord>-92.21798 38.48186 8534</gx:coord>
+            <gx:coord>-92.27996 38.50539 8534</gx:coord>
+            <gx:coord>-92.34357 38.52947 8534</gx:coord>
+            <gx:coord>-92.38218 38.54402 8534</gx:coord>
+            <gx:coord>-92.42188 38.55899 8534</gx:coord>
+            <gx:coord>-92.48523 38.58287 8534</gx:coord>
+            <gx:coord>-92.56592 38.61322 8534</gx:coord>
+            <gx:coord>-92.61970 38.63338 8534</gx:coord>
+            <gx:coord>-92.68469 38.65768 8534</gx:coord>
+            <gx:coord>-92.74855 38.68149 8534</gx:coord>
+            <gx:coord>-92.81405 38.70584 8534</gx:coord>
+            <gx:coord>-92.87848 38.72979 8534</gx:coord>
+            <gx:coord>-92.94320 38.75372 8534</gx:coord>
+            <gx:coord>-93.00806 38.77773 8534</gx:coord>
+            <gx:coord>-93.07838 38.80371 8534</gx:coord>
+            <gx:coord>-93.14313 38.82755 8534</gx:coord>
+            <gx:coord>-93.20765 38.85127 8534</gx:coord>
+            <gx:coord>-93.27057 38.87442 8534</gx:coord>
+            <gx:coord>-93.32758 38.89528 8534</gx:coord>
+            <gx:coord>-93.40045 38.92195 8534</gx:coord>
+            <gx:coord>-93.46655 38.94607 8534</gx:coord>
+            <gx:coord>-93.50315 38.95930 8534</gx:coord>
+            <gx:coord>-93.56650 38.98228 8534</gx:coord>
+            <gx:coord>-93.63259 39.00627 8534</gx:coord>
+            <gx:coord>-93.69757 39.02972 8534</gx:coord>
+            <gx:coord>-93.76904 39.05556 8534</gx:coord>
+            <gx:coord>-93.83203 39.07818 8534</gx:coord>
+            <gx:coord>-93.88165 39.09601 8534</gx:coord>
+            <gx:coord>-93.94785 39.11966 8534</gx:coord>
+            <gx:coord>-93.98523 39.13303 8534</gx:coord>
+            <gx:coord>-94.02344 39.14666 8534</gx:coord>
+            <gx:coord>-94.08191 39.16761 8534</gx:coord>
+            <gx:coord>-94.11946 39.18100 8534</gx:coord>
+            <gx:coord>-94.17057 39.19922 8534</gx:coord>
+            <gx:coord>-94.20764 39.21239 8534</gx:coord>
+            <gx:coord>-94.27924 39.23767 8534</gx:coord>
+            <gx:coord>-94.34045 39.25932 8534</gx:coord>
+            <gx:coord>-94.40205 39.28116 8534</gx:coord>
+            <gx:coord>-94.44586 39.29665 8534</gx:coord>
+            <gx:coord>-94.53067 39.32652 8534</gx:coord>
+            <gx:coord>-94.59619 39.34940 8534</gx:coord>
+            <gx:coord>-94.65880 39.37129 8534</gx:coord>
+            <gx:coord>-94.72645 39.39487 8534</gx:coord>
+            <gx:coord>-94.79095 39.41722 8534</gx:coord>
+            <gx:coord>-94.85620 39.43996 8534</gx:coord>
+            <gx:coord>-94.92029 39.46229 8534</gx:coord>
+            <gx:coord>-94.98492 39.48463 8534</gx:coord>
+            <gx:coord>-95.05182 39.50767 8534</gx:coord>
+            <gx:coord>-95.10156 39.52485 8534</gx:coord>
+            <gx:coord>-95.16513 39.54666 8534</gx:coord>
+            <gx:coord>-95.23343 39.57014 8534</gx:coord>
+            <gx:coord>-95.27692 39.58518 8534</gx:coord>
+            <gx:coord>-95.36774 39.63257 8534</gx:coord>
+            <gx:coord>-95.43208 39.66737 8534</gx:coord>
+            <gx:coord>-95.48480 39.69556 8534</gx:coord>
+            <gx:coord>-95.54768 39.72862 8534</gx:coord>
+            <gx:coord>-95.60852 39.76064 8534</gx:coord>
+            <gx:coord>-95.67096 39.79360 8534</gx:coord>
+            <gx:coord>-95.73383 39.82688 8534</gx:coord>
+            <gx:coord>-95.79523 39.85938 8534</gx:coord>
+            <gx:coord>-95.85461 39.89075 8534</gx:coord>
+            <gx:coord>-95.91638 39.92322 8534</gx:coord>
+            <gx:coord>-95.98337 39.95858 8534</gx:coord>
+            <gx:coord>-96.04327 39.99042 8534</gx:coord>
+            <gx:coord>-96.08374 40.01197 8534</gx:coord>
+            <gx:coord>-96.17631 40.06127 8534</gx:coord>
+            <gx:coord>-96.23645 40.09319 8534</gx:coord>
+            <gx:coord>-96.27388 40.10880 8534</gx:coord>
+            <gx:coord>-96.32232 40.12091 8534</gx:coord>
+            <gx:coord>-96.39673 40.13362 8534</gx:coord>
+            <gx:coord>-96.46520 40.14558 8534</gx:coord>
+            <gx:coord>-96.53143 40.15708 8534</gx:coord>
+            <gx:coord>-96.60110 40.16909 8534</gx:coord>
+            <gx:coord>-96.68317 40.18304 8534</gx:coord>
+            <gx:coord>-96.75116 40.19460 8534</gx:coord>
+            <gx:coord>-96.82164 40.20652 8534</gx:coord>
+            <gx:coord>-96.89298 40.21857 8534</gx:coord>
+            <gx:coord>-96.96471 40.23068 8534</gx:coord>
+            <gx:coord>-97.03558 40.24246 8534</gx:coord>
+            <gx:coord>-97.10736 40.25441 8534</gx:coord>
+            <gx:coord>-97.17664 40.26590 8534</gx:coord>
+            <gx:coord>-97.24658 40.27753 8534</gx:coord>
+            <gx:coord>-97.32037 40.28966 8534</gx:coord>
+            <gx:coord>-97.38912 40.30092 8534</gx:coord>
+            <gx:coord>-97.46028 40.31252 8534</gx:coord>
+            <gx:coord>-97.53375 40.32445 8534</gx:coord>
+            <gx:coord>-97.59823 40.33491 8534</gx:coord>
+            <gx:coord>-97.66933 40.34641 8534</gx:coord>
+            <gx:coord>-97.74018 40.35781 8534</gx:coord>
+            <gx:coord>-97.84530 40.37457 8534</gx:coord>
+            <gx:coord>-97.88611 40.38112 8534</gx:coord>
+            <gx:coord>-97.95685 40.39235 8534</gx:coord>
+            <gx:coord>-98.02710 40.40341 8534</gx:coord>
+            <gx:coord>-98.06201 40.40891 8534</gx:coord>
+            <gx:coord>-98.13623 40.42058 8534</gx:coord>
+            <gx:coord>-98.20789 40.43175 8534</gx:coord>
+            <gx:coord>-98.27887 40.44278 8534</gx:coord>
+            <gx:coord>-98.34767 40.45343 8534</gx:coord>
+            <gx:coord>-98.41907 40.46448 8534</gx:coord>
+            <gx:coord>-98.49359 40.47592 8534</gx:coord>
+            <gx:coord>-98.56185 40.48634 8534</gx:coord>
+            <gx:coord>-98.63969 40.49826 8534</gx:coord>
+            <gx:coord>-98.70667 40.50845 8534</gx:coord>
+            <gx:coord>-98.77509 40.51872 8534</gx:coord>
+            <gx:coord>-98.84985 40.52994 8534</gx:coord>
+            <gx:coord>-98.92165 40.54076 8534</gx:coord>
+            <gx:coord>-98.99443 40.55165 8534</gx:coord>
+            <gx:coord>-99.06421 40.56194 8534</gx:coord>
+            <gx:coord>-99.14437 40.57381 8534</gx:coord>
+            <gx:coord>-99.21328 40.58401 8534</gx:coord>
+            <gx:coord>-99.28943 40.59508 8534</gx:coord>
+            <gx:coord>-99.36041 40.60538 8534</gx:coord>
+            <gx:coord>-99.43232 40.61580 8534</gx:coord>
+            <gx:coord>-99.50513 40.62630 8534</gx:coord>
+            <gx:coord>-99.57202 40.63586 8534</gx:coord>
+            <gx:coord>-99.64783 40.64671 8534</gx:coord>
+            <gx:coord>-99.72103 40.65714 8534</gx:coord>
+            <gx:coord>-99.79132 40.66718 8534</gx:coord>
+            <gx:coord>-99.86523 40.67766 8534</gx:coord>
+            <gx:coord>-99.93823 40.68782 8534</gx:coord>
+            <gx:coord>-100.00323 40.69684 8534</gx:coord>
+            <gx:coord>-100.06423 40.70532 8534</gx:coord>
+            <gx:coord>-100.15704 40.71817 8534</gx:coord>
+            <gx:coord>-100.25726 40.73195 8534</gx:coord>
+            <gx:coord>-100.32740 40.74149 8534</gx:coord>
+            <gx:coord>-100.39563 40.75076 8534</gx:coord>
+            <gx:coord>-100.46479 40.76016 8534</gx:coord>
+            <gx:coord>-100.53639 40.76989 8534</gx:coord>
+            <gx:coord>-100.60876 40.77960 8534</gx:coord>
+            <gx:coord>-100.69581 40.77999 8534</gx:coord>
+            <gx:coord>-100.77153 40.76798 8534</gx:coord>
+            <gx:coord>-100.85681 40.75415 8534</gx:coord>
+            <gx:coord>-100.92426 40.74307 8534</gx:coord>
+            <gx:coord>-100.99245 40.73181 8534</gx:coord>
+            <gx:coord>-101.06122 40.72028 8534</gx:coord>
+            <gx:coord>-101.12939 40.70828 8534</gx:coord>
+            <gx:coord>-101.19727 40.69638 8534</gx:coord>
+            <gx:coord>-101.26486 40.68451 8534</gx:coord>
+            <gx:coord>-101.33246 40.67274 8534</gx:coord>
+            <gx:coord>-101.40337 40.66017 8534</gx:coord>
+            <gx:coord>-101.46967 40.64841 8534</gx:coord>
+            <gx:coord>-101.53777 40.63624 8534</gx:coord>
+            <gx:coord>-101.60516 40.62419 8534</gx:coord>
+            <gx:coord>-101.70251 40.60675 8534</gx:coord>
+            <gx:coord>-101.75125 40.59793 8534</gx:coord>
+            <gx:coord>-101.81623 40.58620 8534</gx:coord>
+            <gx:coord>-101.88009 40.57465 8534</gx:coord>
+            <gx:coord>-101.95275 40.56143 8534</gx:coord>
+            <gx:coord>-102.01898 40.54923 8534</gx:coord>
+            <gx:coord>-102.08600 40.53703 8534</gx:coord>
+            <gx:coord>-102.15436 40.52449 8534</gx:coord>
+            <gx:coord>-102.22210 40.51199 8534</gx:coord>
+            <gx:coord>-102.28973 40.49950 8534</gx:coord>
+            <gx:coord>-102.38290 40.48238 8534</gx:coord>
+            <gx:coord>-102.45150 40.46963 8534</gx:coord>
+            <gx:coord>-102.51984 40.45697 8534</gx:coord>
+            <gx:coord>-102.58702 40.44444 8534</gx:coord>
+            <gx:coord>-102.64996 40.43266 8534</gx:coord>
+            <gx:coord>-102.71967 40.41962 8534</gx:coord>
+            <gx:coord>-102.79022 40.40634 8534</gx:coord>
+            <gx:coord>-102.85469 40.39417 8534</gx:coord>
+            <gx:coord>-102.92660 40.38053 8534</gx:coord>
+            <gx:coord>-102.96324 40.37355 8534</gx:coord>
+            <gx:coord>-103.03241 40.36034 8534</gx:coord>
+            <gx:coord>-103.09776 40.34780 8534</gx:coord>
+            <gx:coord>-103.14215 40.33928 8534</gx:coord>
+            <gx:coord>-103.20380 40.32751 8534</gx:coord>
+            <gx:coord>-103.26501 40.31570 8534</gx:coord>
+            <gx:coord>-103.30255 40.30843 8534</gx:coord>
+            <gx:coord>-103.38678 40.29222 8344</gx:coord>
+            <gx:coord>-103.43506 40.28284 8207</gx:coord>
+            <gx:coord>-103.48079 40.27378 8077</gx:coord>
+            <gx:coord>-103.54169 40.26169 7917</gx:coord>
+            <gx:coord>-103.57723 40.25470 7810</gx:coord>
+            <gx:coord>-103.61693 40.24688 7567</gx:coord>
+            <gx:coord>-103.64862 40.24068 7399</gx:coord>
+            <gx:coord>-103.69604 40.23143 7155</gx:coord>
+            <gx:coord>-103.74234 40.22230 6866</gx:coord>
+            <gx:coord>-103.79477 40.21187 6408</gx:coord>
+            <gx:coord>-103.82843 40.20506 6218</gx:coord>
+            <gx:coord>-103.86548 40.19357 6119</gx:coord>
+            <gx:coord>-103.92432 40.16698 5639</gx:coord>
+            <gx:coord>-103.97848 40.14209 5304</gx:coord>
+            <gx:coord>-104.04987 40.10921 4938</gx:coord>
+            <gx:coord>-104.08691 40.09195 4724</gx:coord>
+            <gx:coord>-104.12305 40.07506 4656</gx:coord>
+            <gx:coord>-104.16602 40.05492 4656</gx:coord>
+            <gx:coord>-104.20582 40.03655 4625</gx:coord>
+            <gx:coord>-104.25283 40.01481 4336</gx:coord>
+            <gx:coord>-104.32118 39.98330 4092</gx:coord>
+            <gx:coord>-104.34796 39.97078 4039</gx:coord>
+            <gx:coord>-104.38291 39.95444 4039</gx:coord>
+            <gx:coord>-104.44061 39.92757 3970</gx:coord>
+            <gx:coord>-104.46802 39.91487 3825</gx:coord>
+            <gx:coord>-104.48983 39.89832 3703</gx:coord>
+            <gx:coord>-104.49847 39.88042 3620</gx:coord>
+            <gx:coord>-104.50018 39.84229 3505</gx:coord>
+            <gx:coord>-104.50055 39.82497 3467</gx:coord>
+            <gx:coord>-104.50076 39.80910 3429</gx:coord>
+            <gx:coord>-104.50098 39.78769 3437</gx:coord>
+            <gx:coord>-104.50116 39.76883 3437</gx:coord>
+            <gx:coord>-104.50165 39.74975 3437</gx:coord>
+            <gx:coord>-104.50201 39.73480 3437</gx:coord>
+            <gx:coord>-104.50225 39.71768 3421</gx:coord>
+            <gx:coord>-104.50256 39.70017 3368</gx:coord>
+            <gx:coord>-104.50279 39.68092 3322</gx:coord>
+            <gx:coord>-104.50303 39.66412 3269</gx:coord>
+            <gx:coord>-104.50345 39.64311 3178</gx:coord>
+            <gx:coord>-104.50378 39.62573 3101</gx:coord>
+            <gx:coord>-104.50415 39.60655 3018</gx:coord>
+            <gx:coord>-104.50440 39.58406 2926</gx:coord>
+            <gx:coord>-104.50464 39.56531 2850</gx:coord>
+            <gx:coord>-104.50500 39.54433 2827</gx:coord>
+            <gx:coord>-104.50531 39.52634 2827</gx:coord>
+            <gx:coord>-104.50568 39.50837 2827</gx:coord>
+            <gx:coord>-104.50595 39.49384 2827</gx:coord>
+            <gx:coord>-104.50806 39.48053 2827</gx:coord>
+            <gx:coord>-104.52515 39.46885 2827</gx:coord>
+            <gx:coord>-104.54739 39.46866 2827</gx:coord>
+            <gx:coord>-104.56787 39.47039 2819</gx:coord>
+            <gx:coord>-104.59338 39.47257 2819</gx:coord>
+            <gx:coord>-104.61133 39.47541 2827</gx:coord>
+            <gx:coord>-104.62937 39.49081 2827</gx:coord>
+            <gx:coord>-104.63971 39.51005 2827</gx:coord>
+            <gx:coord>-104.64298 39.52373 2819</gx:coord>
+            <gx:coord>-104.64430 39.53719 2819</gx:coord>
+            <gx:coord>-104.64526 39.55181 2827</gx:coord>
+            <gx:coord>-104.64520 39.56666 2827</gx:coord>
+            <gx:coord>-104.64454 39.59276 2827</gx:coord>
+            <gx:coord>-104.64435 39.61023 2827</gx:coord>
+            <gx:coord>-104.64418 39.62677 2827</gx:coord>
+            <gx:coord>-104.64398 39.64174 2827</gx:coord>
+            <gx:coord>-104.64380 39.65953 2797</gx:coord>
+            <gx:coord>-104.64340 39.68129 2659</gx:coord>
+            <gx:coord>-104.64337 39.69616 2576</gx:coord>
+            <gx:coord>-104.64340 39.70816 2507</gx:coord>
+            <gx:coord>-104.64307 39.72288 2416</gx:coord>
+            <gx:coord>-104.64288 39.73466 2339</gx:coord>
+            <gx:coord>-104.64270 39.74970 2240</gx:coord>
+            <gx:coord>-104.64269 39.76144 2172</gx:coord>
+            <gx:coord>-104.64240 39.77940 2057</gx:coord>
+            <gx:coord>-104.64233 39.78983 1989</gx:coord>
+            <gx:coord>-104.64215 39.80025 1928</gx:coord>
+            <gx:coord>-104.64203 39.81059 1859</gx:coord>
+            <gx:coord>-104.64185 39.82091 1798</gx:coord>
+        </gx:Track>
+    </Placemark>
+    <ScreenOverlay>
+        <name>FlightAware</name>
+        <Icon>
+            <href>https://flightaware.com/images/logo_ge.png</href>
+        </Icon>
+        <overlayXY x="1" y="-1" xunits="fraction" yunits="fraction"/>
+        <screenXY x="1" y="0" xunits="fraction" yunits="fraction"/>
+        <size x="0" y="0" xunits="fraction" yunits="fraction"/>
+    </ScreenOverlay>
+</Document>
+
+</kml>
