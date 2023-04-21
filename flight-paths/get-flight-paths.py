@@ -10,7 +10,7 @@ with open("ual-flight-paths.txt", 'r') as f:
         url = f"{content}"
         print("checking url: " + url)
         lst = url.split("/")
-        filename = "flight-paths/" + lst[5] + "_" + lst[7] + "_" + lst[8] + "_" + lst[9] + "_" + lst[10] + ".kml"
+        filename = "downloaded-paths/" + lst[5] + "_" + lst[7] + "_" + lst[8] + "_" + lst[9] + "_" + lst[10] + ".kml"
         r = http.request('GET', url)
         if r.status == 200:
             print("file found. downloading... " + filename)
